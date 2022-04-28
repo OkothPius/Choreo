@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.2"
+  export = ["countryinfo"]
+  name = "countryinfo"
+  org = "contenlab"
+
